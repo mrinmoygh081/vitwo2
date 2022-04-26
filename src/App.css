@@ -1741,13 +1741,18 @@ hr.space-sm {
 }
 
 .icon-list-horizontal.icon-list li {
+  padding-left: 10px;
   margin-right: 25px;
   margin-bottom: 0;
-  padding-left: 25px;
   position: relative;
   white-space: nowrap;
   overflow: hidden;
   list-style: none;
+}
+
+.icon-list-horizontal.icon-list li i {
+  padding-right: 8px;
+  color: var(--lightBlue)
 }
 
 .cnt-box-blog-side .icon-list a,

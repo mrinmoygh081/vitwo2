@@ -15,9 +15,9 @@ const BlogItem = ({ blogImg }) => {
                 <div className="caption">
                     <h2>Shipping family turned money managers are now billionaires</h2>
                     <ul className="icon-list icon-list-horizontal">
-                        <li><i className="icon-calendar"></i><Link to="/blogDetails">01 / 15 / 2020</Link></li>
-                        <li><i className="icon-bookmark"></i><Link to="/blogDetails">Finance</Link></li>
-                        <li><i className="icon-user"></i><Link to="/blogDetails">Admin</Link></li>
+                        <li><i className="far fa-calendar"></i><Link to="/blogDetails">01 / 15 / 2020</Link></li>
+                        <li><i className="far fa-bookmark"></i><Link to="/blogDetails">Finance</Link></li>
+                        <li><i className="far fa-user"></i><Link to="/blogDetails">Admin</Link></li>
                     </ul>
                     <p>
                         Lorem ipsum dolor sitamet consectetur adipisicing elito sed do eiusmod tempore.amet consectetur adipisicing elito sed do eiusmod tempore.
